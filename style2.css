@@ -1,0 +1,42 @@
+body {
+    background: linear-gradient(to right, #29a5a5, transparent);
+    align-content: center;
+}
+
+.over {
+    margin-left: 400px ;
+    margin-top: 250px;
+    display: inline-flex;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: cursive;
+}
+
+.a {
+    width : 150px;
+    height : 150px;
+    margin: 20px 20px 20px 20px;
+    padding: 20px 20px 20px 20px;
+}
+
+.button {
+    width : 150px;
+    height : 150px;
+    margin: 20px 20px 20px 20px;
+    padding: 20px 20px 20px 20px;
+}
+
+.a :hover  {
+    background-color: linear-gradient(to right, red, blue);
+    cursor:pointer;
+}
+
+.head {
+    margin-left: 410px;
+    margin-top: 22px;
+    font-size: 30px;
+    font-family: cursive;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
